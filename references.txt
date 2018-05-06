@@ -99,3 +99,7 @@ Things to Watch:
 
   Static Typing
     http://blog.cleancoder.com/uncle-bob/2017/01/13/TypesAndTests.html
+
+Watched
+  Refactoring
+    http://bit.ly/neal_ford_rampant_emergence
