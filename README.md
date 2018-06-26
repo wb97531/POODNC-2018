@@ -1,4 +1,4 @@
-(I forked this repo to work along with the in class exercises during Sandi Metz's POODR 3 day course I took in May, 2018 in North Carolina.)
+(This repo was forked to work along with the in class exercises during Sandi Metz's POODR 3 day course I took in May, 2018 in North Carolina.)
 
 # Object-Oriented Design Class
 
